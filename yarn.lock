@@ -5468,9 +5468,9 @@ gatsby-plugin-manifest@^2.0.2:
     sharp "^0.23.2"
 
 gatsby-plugin-modal-routing@^1.0.0:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-modal-routing/-/gatsby-plugin-modal-routing-1.0.2.tgz#f50650c85080724c7e5f4414e6a17fd4c6ed0089"
-  integrity sha512-HnaMrP/V0mDkzOqyS2SZG7T5SwyJchKN85y/g/XsmwKZ8bsxtaGtl+4eeBie6S/JQ/75nWwyUWCQ6HRXD8BhEQ==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-modal-routing/-/gatsby-plugin-modal-routing-1.0.3.tgz#9d604983b0161c3beff7ff41295bd1a92611493f"
+  integrity sha512-uTKFGJqKEeDcDR+qgpWVfYNF1EFqgUrjIbHXq7A/zekqLmJ7RY+acq4w9cr7UCsbm1CV67jJJ3yxRQrB5Wv4bg==
   dependencies:
     "@babel/runtime" "^7.0.0"
     lodash "^4.17.11"
