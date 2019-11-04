@@ -1,6 +1,7 @@
-# Gatsbygram
+# Gatsbygram with [`gatsby-plugin-modal-routing`](https://github.com/lsirivong/gatsby-plugin-modal-routing/) for modal route handling
 
-https://gatsby-starter-with-gatsby-plugin-modal-routing.netlify.com/
+
+https://gatsbygram-with-gatsby-plugin-modal-routing.netlify.com/
 
 Built with Gatsby 2.0 as a demo of Gatsby's new built-in image processing
 capabilities.
