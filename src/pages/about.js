@@ -17,11 +17,17 @@ class About extends React.Component {
             framework
             {` `}
             <a
-              target="_blank"
               rel="noopener noreferrer"
               href="https://github.com/gatsbyjs/gatsby"
             >
               Gatsby
+            </a>
+            {` and `}
+            <a
+              rel="noopener noreferrer"
+              href="https://github.com/lsirivong/gatsby-plugin-modal-routing"
+            >
+              gatsby-plugin-modal-routing
             </a>
             .
           </p>
@@ -29,11 +35,10 @@ class About extends React.Component {
             The code for the site lives at
             {` `}
             <a
-              href="https://github.com/gatsbyjs/gatsby/tree/master/examples/gatsbygram"
+              href="https://github.com/lsirivong/gatsbygram-with-gatsby-plugin-modal-routing"
               rel="noopener noreferrer"
-              target="_blank"
             >
-              https://github.com/gatsbyjs/gatsby/tree/master/examples/gatsbygram
+              https://github.com/lsirivong/gatsbygram-with-gatsby-plugin-modal-routing
             </a>
           </p>
           <p>
